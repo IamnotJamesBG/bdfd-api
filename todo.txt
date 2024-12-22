@@ -1,0 +1,13 @@
+
+
+/sendmessage
+
+/roleinfo
+/emojiinfo [ done not tested ]
+/channelinfo
+
+/guild/ban : need to remove bans[] but worked
+
+/serverboosters done
+
+/botstats done
